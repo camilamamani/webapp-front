@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.TableContainer{
+  align-items: center;
+  justify-content: center;
+  width: 50px; 
+  margin: 0 auto;
+}
+
+.container {
+  width: 100px;
+  display: grid;
+  place-content: center;
+}
